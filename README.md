@@ -2,9 +2,10 @@
 
 #### How to install?
 
-  ``` git clone <this url>
+  ```shell
+      git clone <this url>
       cd test-app
-      npm install - webpack
+      npm install -g webpack
       npm install
 
       webpack
